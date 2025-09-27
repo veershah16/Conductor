@@ -1,0 +1,4 @@
+- [ ] Add start screen
+- [ ] Add restart button
+- [ ] Add sound effects
+- [ ] Add sprite images for bird and pipes

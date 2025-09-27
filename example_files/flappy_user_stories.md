@@ -1,0 +1,4 @@
+- As a player, I want to press a key to flap the bird upward.
+- As a player, I want obstacles (pipes) to appear randomly.
+- As a player, I want to see my score increase as I survive longer.
+- As a player, I want the game to end when I hit a pipe or the ground.

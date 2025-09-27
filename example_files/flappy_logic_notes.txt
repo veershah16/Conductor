@@ -1,0 +1,5 @@
+Game loop:
+- Bird has Y position, velocity affected by gravity
+- Key press applies lift
+- Pipes move left, spawn at intervals with gaps
+- Collision with pipe or ground ends game

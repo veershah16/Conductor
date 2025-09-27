@@ -1,0 +1,7 @@
+Prompt 1: My Desktop is a mess. I have been working on three different projects and the files are not organised. Go through my desktop files and organise the files into three appropriate folders. 
+
+Prompt 2: The folder xxx has some files used to design and build a game. Using the contents of that folder, build the game, save it to my Desktop and run/launch it. 
+
+Prompt 3: The folder xxx has some research materials for a project I am working on. Summarise this and generate a PDF summary report and store it on my Desktop. 
+
+Prompt 4: The folder xxx has some files used to design and build a game. Using the contents of that folder, build the game, save it to my Desktop and run/launch it. 

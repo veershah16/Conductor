@@ -1,0 +1,4 @@
+- Pressing key raises bird
+- Pipes spawn at consistent intervals
+- Score increments when pipes passed
+- Collision ends game immediately
